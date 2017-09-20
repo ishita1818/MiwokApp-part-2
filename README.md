@@ -1,4 +1,4 @@
-Miwok App
+Miwok App Part 2
 ===================================
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
